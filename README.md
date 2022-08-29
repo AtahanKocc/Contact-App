@@ -1,5 +1,5 @@
 # Contact_app
-I made a contacts app with  two pages, namely Contacts and Contact Details.
+I made a contacts app with  two pages, namely contacts and contact details.
 
 ## screenshots
 ![pic1](https://user-images.githubusercontent.com/64138592/152428870-f517b8e5-e815-48b5-a279-a60bd215b2fc.png)
